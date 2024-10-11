@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+}
+
+.container {
+  height: auto;
+  width: 750px;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.cards-list {
+  display: flex;
+}
